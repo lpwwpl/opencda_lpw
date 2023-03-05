@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2022-07-06 10:20:56.955521 by randomTrips.py v1_13_0+0000-4b5bca80615
+<configuration>
+    <begin value="0"/>
+    <end value="10"/>
+    <net-file value="C:\Users\86135\Desktop\OpenCDA-main\util\fourwaysignal.net.xml"/>
+</configuration>
+
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="3#1" to="-1#0"/>
+    <trip id="1" depart="1.00" from="-3#3" to="-3#2"/>
+    <trip id="2" depart="2.00" from="3#3" to="3#0"/>
+    <trip id="3" depart="3.00" from="7#1" to="-1#1"/>
+    <trip id="4" depart="4.00" from="-7#1" to="-1#0"/>
+    <trip id="5" depart="5.00" from="-3#1" to="0"/>
+    <trip id="6" depart="6.00" from="-0" to="-3#2"/>
+    <trip id="7" depart="7.00" from="3#1" to="0"/>
+    <trip id="8" depart="8.00" from="-3#1" to="1#0"/>
+    <trip id="9" depart="9.00" from="3#4" to="-1#0"/>
+</routes>

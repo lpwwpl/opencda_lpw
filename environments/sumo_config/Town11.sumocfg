@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="net/Town11.net.xml"/>
+    <route-files value="rou/Town11.rou.xml"/>
+  </input>
+  <gui_only>
+    <gui-settings-file value="viewsettings.xml"/>
+  </gui_only>
+  <num-clients value="1"/>
+</configuration>

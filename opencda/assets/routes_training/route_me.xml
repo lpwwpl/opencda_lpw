@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+b'<route id="0" town="simple_signals">\n
+    <waypoint pitch="0.0" roll="0.0" x="-15.63" y="-124.89" yaw="-180" z="0.0" />\n
+    <waypoint pitch="0.0" roll="0.0" x="-20.43" y="-124.39" yaw="-180" z="0.0" />\n
+    <waypoint pitch="0.0" roll="0.0" x="-29.90" y="-124.00" yaw="-180" z="0.0" />\n
+    <waypoint pitch="0" roll="0.0" x="-35.53" y="-123.59" yaw="-180" z="1.0" />\n
+    <waypoint pitch="0" roll="0.0" x="-56.73" y="-92.49" yaw="0" z="0.0" />\n
+    <waypoint pitch="0" roll="0.0" x="-56.73" y="-69.09" yaw="0" z="0.0" />\n
+</route>\n   '
+</routes>

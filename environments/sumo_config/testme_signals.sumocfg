@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="C:\Users\86135\Desktop\OpenCDA-main\environments\sumo_config\testme_signals.net.xml"/>
+    <route-files value="C:\Users\86135\Desktop\OpenCDA-main\environments\sumo_config\carlavtypes.rou.xml"/>
+  </input>
+  <gui_only>
+    <gui-settings-file value="C:\Users\86135\Desktop\OpenCDA-main\environments\sumo_config\viewsettings.xml"/>
+  </gui_only>
+  <num-clients value="1"/>
+</configuration>

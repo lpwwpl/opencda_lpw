@@ -1,0 +1,6 @@
+        - scenario_type: Scenario9
+          trigger:
+            - transform: [ -31.13,-124.09,1.0,-180 ]
+          other_actors:
+            left: [ -46.63,-101.69,1.0,-90 ]
+            front: [ -71.43,-111.39,1.0,0 ]
